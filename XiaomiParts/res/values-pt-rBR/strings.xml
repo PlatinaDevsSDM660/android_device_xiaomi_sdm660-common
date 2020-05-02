@@ -36,6 +36,7 @@
     
     <string name="vibration_title">Feedback tátil</string>
     <string name="vibration_strength_title">Força</string>
+<<<<<<< HEAD
     
     <!-- Thermal Profiles -->
     <string name="thermal_profile_title">Térmico</string>
@@ -57,6 +58,8 @@
     <string name="dirac_summary">Otimizar qualidade de áudio</string>
     <string name="dirac_headset_title">Escolher tipo de fone de ouvido</string>
     <string name="dirac_preset_title">Escolha uma predefinição</string>
+=======
+>>>>>>> 2da54e22... sdm660-common: parts: remove performance profiles
 
     <!-- kcal -->
     <string name="advanced_settings_kcal">Exibir Calibração de Cores</string>
