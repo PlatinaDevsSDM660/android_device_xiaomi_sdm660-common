@@ -117,21 +117,6 @@ public class DeviceSettings extends PreferenceFragment implements
                 FileUtils.setValue(VIBRATION_STRENGTH_PATH, vibrationValue);
                 break;
 
-<<<<<<< HEAD
-            case PREF_THERMAL:
-                mTHERMAL.setValue((String) value);
-                mTHERMAL.setSummary(mTHERMAL.getEntry());
-                FileUtils.setValue(THERMAL_PATH, (String) value);
-=======
-            case PREF_HEADPHONE_GAIN:
-                FileUtils.setValue(HEADPHONE_GAIN_PATH, value + " " + value);
-                break;
-
-            case PREF_MIC_GAIN:
-                FileUtils.setValue(MIC_GAIN_PATH, (int) value);
->>>>>>> 2da54e22... sdm660-common: parts: remove performance profiles
-                break;
-
             case PREF_HALL_WAKEUP:
                 FileUtils.setValue(HALL_WAKEUP_PATH, (boolean) value ? "Y" : "N");
                 FileUtils.setProp(HALL_WAKEUP_PROP, (boolean) value);
