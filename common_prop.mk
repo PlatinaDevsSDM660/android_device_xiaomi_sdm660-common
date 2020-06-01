@@ -131,10 +131,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.camera.privapp.list=org.codeaurora.snapcam \
     vendor.camera.aux.packageblacklist=com.google.android.GoogleCamera,com.discord
 
-# Codec2 switch
-PRODUCT_PROPERTY_OVERRIDES += \
-    debug.media.codec2=2
-
 # Display
 PRODUCT_PROPERTY_OVERRIDES += \
     debug.sf.latch_unsignaled=1 \
