@@ -52,27 +52,27 @@ vendor/lib64/libcdsp_default_listener.so|33260b098ddde2d0e6cf44b11f12e4c16264fda
 vendor/lib64/libcdsprpc.so|d04c40305c6ce6c6cf932a543a18508b2247ece8
 vendor/lib64/libsysmon_cdsp_skel.so|40d3511922c744016c419983b18f97952c23fee5
 
-# Audio - from LA.UM.8.2.r1-06700-sdm660.0
-etc/permissions/audiosphere.xml|3c6d8f14bd99e52a424282fd5d0a5b9b06485dea
-framework/audiosphere.jar|c1679f5aca56f0cb24745b3f7d219acd04833bed
-vendor/lib/libacdb-fts.so|a2f09f2a01c326d6b57b1c0e406c92850ceef439
-vendor/lib/libacdbloader.so|3c294e9ed4ab4640830197f33028b342f9351a0f
-vendor/lib/libacdbrtac.so|98a8a9cf331cc10c755c808da3bf4da5d4de0c2a
-vendor/lib/libadiertac.so|9d6c62200d81e28ccd78aef6ce8e223655f102b6
-vendor/lib/libadm.so|2a275948330d0b50cbbaee644d81ffa6cfb54590
-vendor/lib/libaudcal.so|2c7b95a1c0e43f1c7d8d679f472343776f7bf718
-vendor/lib/libaudioalsa.so|1d8eb7dae06b1cca0cd360a5996bb59a9bd8ba25
-vendor/lib/libaudioparsers.so|d898e3d2cc8177e916052527135258c8d9fc7e89
-vendor/lib/libdrc.so|aa8e8dd2a27803bf8ac36619036e1dc736be540b
-vendor/lib/libqtigef.so|10b64bf536b4edb6c09d047c218cfe4c9a9255f1
-vendor/lib64/libacdb-fts.so|fe3610a7cce613592e90245ce98a23be1763545c
-vendor/lib64/libacdbloader.so|1ca9195a3f00064f3addaf2e9443609d07fd8940
-vendor/lib64/libacdbrtac.so|51d6d796b8d0815b8a7670dfbcd449dd3bb51506
-vendor/lib64/libadiertac.so|8f77a71f76ef3a88d06955c4d6d4d915d62c4c94
-vendor/lib64/libaudcal.so|80ee15046e7a7249a0c9def9bf3f3d94efd3ce6a
-vendor/lib64/libaudioalsa.so|bdf49c709df8a1a7a7e232a6cb1ba6d15af594c7
-vendor/lib64/libaudioparsers.so|ad9394501d467fd264675ead74a4e6bab34eadd5
-vendor/lib64/libqtigef.so|1b7fa4dacefd97f019c342477ff57dc861e70277
+# Audio - platina-user 10 QKQ1.190910.002 V11.0.1.0.QDTCNXM release-keys
+etc/permissions/audiosphere.xml
+framework/audiosphere.jar
+vendor/lib/libacdb-fts.so
+vendor/lib/libacdbloader.so
+vendor/lib/libacdbrtac.so
+vendor/lib/libadiertac.so
+vendor/lib/libadm.so
+vendor/lib/libaudcal.so
+vendor/lib/libaudioalsa.so
+vendor/lib/libaudioparsers.so
+vendor/lib/libdrc.so
+vendor/lib/libqtigef.so
+vendor/lib64/libacdb-fts.so
+vendor/lib64/libacdbloader.so
+vendor/lib64/libacdbrtac.so
+vendor/lib64/libadiertac.so
+vendor/lib64/libaudcal.so
+vendor/lib64/libaudioalsa.so
+vendor/lib64/libaudioparsers.so
+vendor/lib64/libqtigef.so
 
 # Alarm - from LA.UM.8.2.r1-06700-sdm660.0
 -product/app/PowerOffAlarm/PowerOffAlarm.apk|c214e1f7de878aeebe642857d6283bbeca0c7a3e
