@@ -23,6 +23,8 @@ import android.provider.Settings;
 
 import org.lineageos.settings.device.kcal.Utils;
 
+import java.lang.Math.*;
+
 public class BootReceiver extends BroadcastReceiver implements Utils {
 
     public void onReceive(Context context, Intent intent) {
