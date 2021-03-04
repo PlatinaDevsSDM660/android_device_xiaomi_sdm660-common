@@ -32,6 +32,9 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
+# Inherit Dirac
+$(call inherit-product-if-exists, vendor/xiaomi/dirac/dirac.mk)
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
